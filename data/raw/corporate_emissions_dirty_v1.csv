@@ -1,0 +1,13 @@
+Activity Name,Scope,Year,Business Unit,Activity,Emission Factor,Emissions tCO2e,Report Date
+Company diesel trucks,Scope 1,2024,Operations,8000,0.0027,21.6,2024-12-31
+Natural gas boiler,1,2024,Operations ,30000,0.001,30.0,31/12/2024
+Purchased electricity,scope 2,2024,Operations,25000,0.001,25.0,2024/12/31
+Purchased steel,3,2024,Manufacturing,100000,0.0038,390,2024-12-31
+Business flights,Scope 3,2024,Sales,12000,0.0007,8.4,31/12/2024
+Employee commuting,3,2024,Corporate,15000,0.0004,6.0,2024/12/31
+ Company diesel trucks ,1,2025, Operations,7200,0.0027,19.44,2025-12-31
+Purchased electricity,Scope 2,2025,Operations,22000,0.001,,31/12/2025
+Purchased steel,3,2025,Manufacturing,90000,0.0038,342.0,2025/12/31
+Business flights,scope 3,2025,Sales ,10000,0.0007,7.0,2025-12-31
+Employee commuting,3,2025,Corporate,14000,0.0004,5.6,31/12/2025
+Company diesel trucks,Scope 1,2024,Operations,8000,0.0027,21.6,2024-12-31
